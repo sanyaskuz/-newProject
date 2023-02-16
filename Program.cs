@@ -70,11 +70,117 @@ namespace newProject {
       // System.Console.WriteLine("площадь круга с рфдусом {0} равно {1}", radius, area);
 
       // 
+// Условний оператор и if
+      // float f = 6.3f;
+      // int a = 5;
+      // bool isMAsCar = true;
+      // string word = "hello";
+
+      // if(word != "hello") {
+
+      // }
+
+      // if(a == 6) {
+      //   System.Console.WriteLine("Number is 5");
+      // }else if((a == 3 || isMAsCar) && a > 3) {
+      //   System.Console.WriteLine("Number is 3");
+      //   System.Console.WriteLine("User has car");
+      // }else {
+      //   System.Console.WriteLine("Number is not faunt");
+      // }
+
+      // if(a <= 6.2) {
+      //   System.Console.WriteLine("Number is 5");
+      // }else {
+      //   System.Console.WriteLine("Number is not 5");
+      // }
 
 
+      // if Пример
+    //   System.Console.WriteLine("Enter name : ");
+    //   string role = Console.ReadLine();
+      
+    //   if(role == "Admin") {
+    //     System.Console.Write("Enter user name : ");
+    //     string user_name = Console.ReadLine();
+    //     Console.Write("Enter {0} age: ",user_name);
+    //     short age = Convert.ToInt16(Console.ReadLine());
+
+    //     if(age <= 0 || age > 90 ) {
+    //       Console.Write("Enter {0} age : ", user_name);
+    //        age = Convert.ToInt16(Console.ReadLine());
+
+    //     }
+    //     if(age <= 0 || age > 90 ) {
+    //       Console.WriteLine("Error");
+    //       age = 0;
+    //       } else {
+    //         System.Console.WriteLine("User`s age is " + age);
+    //       }
+      
+    //   }else {
+    //     System.Console.WriteLine("You are not admin");
+    //   }
+// Switch
+    // short user_input = Convert.ToInt16(Console.ReadLine());
+
+    // switch(user_input) {
+    //   case 5: 
+    //   System.Console.WriteLine("Number is Fave");
+    //   break;
+    //   case 15: 
+    //   System.Console.WriteLine("Number is fifteen");
+    //   break;
+    //   case 25: 
+    //   System.Console.WriteLine("Number is twenty-five");
+    //   break;
+    //   case 10: 
+    //   System.Console.WriteLine("Number is ten");
+    //   break;
+    //   default: 
+    //   System.Console.WriteLine("Number is not fount");
+    //   break;
+    // }
 
 
+    // }
+    // for while do while
 
+
+    // for(float i = 200;i > 10; i/= 2){
+    //     Console.WriteLine("Element: {0} " , i);
+    // }
+
+    // byte i = 10;
+    // while(i > 0){
+    //   Console.WriteLine("Element: {0} " , i);
+    //   i--;
+    // }
+
+    // bool isHasCar = true;
+    // while(isHasCar) {
+    //   string end = Console.ReadLine();
+    //   if(end == "end") {
+    //     isHasCar = false;
+    //   }
+    // }
+
+    // byte i = 100;
+
+    // do{
+    //   System.Console.WriteLine("Element : " + i);
+    // }while(i < 10);
+
+
+    for(short i = 0; i < 10; i++){
+      // if(i > 5) 
+      //  break;
+      if(i % 2 != 0) {
+        continue;
+      }
+
+      Console.WriteLine("EL: " + i);
+    }
 
     }
   }
