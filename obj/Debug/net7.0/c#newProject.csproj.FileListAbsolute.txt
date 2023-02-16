@@ -1,0 +1,15 @@
+/Users/tatanakovtun/Documents/c#newProject/bin/Debug/net7.0/c#newProject
+/Users/tatanakovtun/Documents/c#newProject/bin/Debug/net7.0/c#newProject.deps.json
+/Users/tatanakovtun/Documents/c#newProject/bin/Debug/net7.0/c#newProject.runtimeconfig.json
+/Users/tatanakovtun/Documents/c#newProject/bin/Debug/net7.0/c#newProject.dll
+/Users/tatanakovtun/Documents/c#newProject/bin/Debug/net7.0/c#newProject.pdb
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.csproj.AssemblyReference.cache
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.AssemblyInfoInputs.cache
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.AssemblyInfo.cs
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.csproj.CoreCompileInputs.cache
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.dll
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/refint/c#newProject.dll
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.pdb
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/c#newProject.genruntimeconfig.cache
+/Users/tatanakovtun/Documents/c#newProject/obj/Debug/net7.0/ref/c#newProject.dll
